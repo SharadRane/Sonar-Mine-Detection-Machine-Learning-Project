@@ -1,1 +1,0 @@
-# Sonar-Mine-Detection-Machine-Learning-Project
